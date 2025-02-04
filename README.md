@@ -32,5 +32,5 @@ Gruvbox colors
 
 ![Emtpy](./Screenshots/wallpaper.png "Empty")
 ![BTOP](./Screenshots/btop.png "BTOP")
-![DOOM](./Screenshots/btop.png "DOOM")
+![DOOM](./Screenshots/doom.png "DOOM")
 ![Neovide](./Screenshots/neovide.png "Neovide")
